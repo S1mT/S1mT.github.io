@@ -11,7 +11,7 @@ execute:
 website:
   title: "Simon Thompson"
   description: "M.S. Data Science portfolio — Willamette University"
-  site-url: https://s1mt.github.io
+  site-url: https://S1mT.github.io
   navbar:
     right:
       - href: index.qmd
@@ -25,10 +25,10 @@ website:
       - href: about.qmd
         text: About
       - icon: github
-        href: https://github.com/s1mt
+        href: https://github.com/S1mT
         aria-label: GitHub
       - icon: linkedin
-        href: https://www.linkedin.com/in/simon-thompson0/ 
+        href: https://www.linkedin.com/in/simon-thompson0
         aria-label: LinkedIn
   page-footer:
     left: "© 2026 Simon Thompson"
