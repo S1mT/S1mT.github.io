@@ -26,7 +26,7 @@ web summary below is what recruiters skim; the PDF is what they download.
 |------|-------|
 | **Languages** | R, Python, SQL |
 | **Data & ML** | \[tidyverse / pandas, scikit-learn, ...\] |
-| **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
+| **Workflow** | Git, Quarto, \[Docker, cloud, .\] |
 | **Communication** | Technical writing, data visualization |
 
 ## Experience
