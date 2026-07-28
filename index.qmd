@@ -1,7 +1,7 @@
 ---
 title: "Simon Thompson"
 subtitle: "M.S. Data Science Candidate · Willamette University"
-image: images/profile.png
+image: images/PortfolioHeadshot.jpg
 about:
   template: trestles
   image-shape: round
@@ -21,17 +21,14 @@ about:
       href: resume.qmd
 ---
 
-I build data pipelines and turn messy data into decisions people can act on.
-Right now I am finishing my M.S. in Data Science at **Willamette University**,
-where my capstone [predicts \[your one-line problem\]](capstone.qmd) for
-\[your stakeholder\].
+I spent years reading offenses as a D1 linebacker. Now I read datasets — same instinct, less turf.
+I'm finishing up a dual MBA & M.S. in Data Science at **Willamette University**, where my capstone predicts pedestrian and cyclist crash risk across Oregon
+where my capstone [analyzes pedestrian and cyclist crash risk across Oregon](capstone.qmd) so planners know where to focus safety fixes.
 
-I care about \[topics you actually care about — e.g. housing, health equity,
-sports analytics\], reproducible workflows, and explaining a model to the person
-who has to trust it.
+I'm most drawn to sports analytics, quantitative finance, but I'll chase an interesting dataset just about anywhere.
 
-**Currently looking for** \[data analyst / data scientist / ML engineer\] roles
-starting \[month year\]. [Get in touch](about.qmd) or grab my
+**Currently looking for** business intelligence roles
+starting August 2026. [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
 
 ---
